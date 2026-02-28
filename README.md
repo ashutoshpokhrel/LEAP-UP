@@ -88,6 +88,20 @@ On Windows, make sure the SFML `.dll` files are either in your PATH or in the sa
 
 ---
 
+## ⬇️ Download & Play
+
+No setup required! Just download the latest release:
+
+👉 [Download LEAP-UP v1.0](https://github.com/ashutoshpokhrel/LEAP-UP/releases/tag/v1.0)
+
+1. Extract the zip
+2. Double-click `LEAP-UP.exe`
+3. Play!
+
+> Windows only. No installation needed.
+
+---
+
 ## 👾 Credits
 
 See the in-game Credits screen, or check `credits.cpp`.
