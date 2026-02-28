@@ -103,5 +103,9 @@ No setup required! Just download the latest release:
 ---
 
 ## 👾 Credits
+Sahaj Wagle
+Sushant Sharma Timilsina
+Sanchit Baral
+Ashutosh Pokhrel
 
-See the in-game Credits screen, or check `credits.cpp`.
+(Also in the in-game Credits screen)
