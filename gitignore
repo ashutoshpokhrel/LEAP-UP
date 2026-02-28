@@ -1,0 +1,35 @@
+# ─── Compiled binaries ───────────────────────────────────────────────
+*.exe
+*.out
+*.app
+LeapUp
+
+# ─── SFML & MinGW runtime DLLs (users install SFML themselves) ───────
+*.dll
+
+# ─── Object files & build artifacts ─────────────────────────────────
+*.o
+*.obj
+*.a
+*.lib
+build/
+bin/
+out/
+
+# ─── Runtime data (regenerated each session) ─────────────────────────
+# Comment this out if you want to track a default highscore.txt
+# highscore.txt
+
+# ─── OS junk ─────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ─── IDE / editor folders ────────────────────────────────────────────
+.vscode/
+.idea/
+*.suo
+*.user
+*.vcxproj.user
+CMakeCache.txt
+CMakeFiles/
